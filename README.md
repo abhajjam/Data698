@@ -1,15 +1,15 @@
 # Data698 Project Research
 
 ##Team Members: Abdelmalek Hajjam, Monu Chacko, Md Forhad Akbar, Shovan Biswas
+ 
+## One. Data CleanUp and processing (.Rmd)
 
-## Data CleanUp (.Rmd)
+## Two. PCA analysis and Distributions Visualizations (.Rmd)
 
-## PCA analysis and Distributions Visualizations (.Rmd)
-
-## Machine Learning Algorithms (.Rmd)
+## Three. Machine Learning Algorithms (.Rmd)
 
 ## Project Reseach Draft Document (.docx)
 
 ## Original Data (.csv)
 
-## Claened and Processed Data (.csv)
+## Cleaned and Processed Data (.csv)
